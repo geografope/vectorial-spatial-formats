@@ -1,0 +1,8 @@
+id,format,files,size,unit,editable,storage,time_reading_seg
+6,Geodatabase,20,196,mb,yes,no limit,5.778772
+5,Geoarrow,1,341,mb,no,no limit,0.3803378
+3,Geparquet,1,343,mb,no,no limit,2.520023
+7,Flatgeobuf,1,619,mb,yes,no limit,1.637455
+1,Shapefile,4,638,mb,yes,2 gb,2.670662
+2,Geopackage,1,657,mb,yes,140 TB,2.117844
+4,GeoJson,1,1850,mb,yes,2 gb,133.8885
