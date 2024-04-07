@@ -7,6 +7,13 @@
 
 ![](./results_vector_formats.png)
 
+
+Discover more and learn with me! 🔍💡 Subscribe, turn on notifications 🔔, and join the community that loves open-source software. 🌟🌍 👇
+
+- <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/youtube.svg' width=20 align='center'> https://www.youtube.com/@geografope
+- <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/tiktok.svg' width=15 align='center'> https://www.tiktok.com/@geografope
+
+
 ## 🟢 References 
 - *https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/manage-file-gdb/file-geodatabase-size-and-name-limits.htm*
 - *https://www.geopackage.org/spec120/#:~:text=The%20maximum%20size%20of%20a,maximum%20size%20limit%20of%204GB*
