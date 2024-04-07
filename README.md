@@ -1,7 +1,8 @@
 # **A simple analysis of vector formats of the Geographical Information Systems**
 
 📁 In this repository, you can find the results of analysis of various vector file formats. 📊
-🔍 All analyses were conducted using QGIS and R software. 💻
+🔍 All analyses were conducted using QGIS and R software💻.
+
 📈 The results were obtained after the mean of 10 repetitions. 🔢
 
 ![](./results_vector_formats.png)
