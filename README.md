@@ -8,7 +8,7 @@
 ![](./results_vector_formats.png)
 
 
-Discover more and learn with me! 🔍💡 Subscribe, turn on notifications 🔔, and join the community that loves open-source software. 🌟🌍 👇
+Discover more and learn with me! 🔍💡 Subscribe, turn on notifications 🔔, and join the community that loves free and open-source software. 🌟🌍 👇
 
 - <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/youtube.svg' width=20 align='center'> https://www.youtube.com/@geografope
 - <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/tiktok.svg' width=15 align='center'> https://www.tiktok.com/@geografope
